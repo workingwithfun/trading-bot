@@ -1,2 +1,4 @@
 2026-04-15 18:57:05,706 | INFO | Placing order: BTCUSDT BUY MARKET qty=0.001 price=None
 2026-04-15 18:57:06,416 | ERROR | Order failed: APIError(code=-2014): API-key format invalid.
+2026-04-15 19:31:57,571 | INFO | Placing order: BTCUSDT SELL LIMIT qty=0.001 price=70000.0
+2026-04-15 19:31:58,193 | ERROR | Order failed: APIError(code=-2014): API-key format invalid.
